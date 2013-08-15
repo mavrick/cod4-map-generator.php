@@ -2,6 +2,7 @@ cod4-map-generator.php
 ======================
 
 COD4 Map Rotation Generator
+http://mavrick.id.au/cod4-map-generator.php
 
 Now, keep in mind I wrote this back in 2008 so be kind :)
 
